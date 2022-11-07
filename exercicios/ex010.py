@@ -1,4 +1,4 @@
-r = float(input("Digite um valor em real:"))
+r = float(input("Digite um valor em real: "))
 s = (r / 4.66)
 print("Valor em real30: {:.2f}$$" .format(r))
 print("  Vai ser")
